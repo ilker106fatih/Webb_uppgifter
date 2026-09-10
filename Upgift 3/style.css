@@ -1,0 +1,27 @@
+h1 {
+    background-color: rgb(116, 196, 220);
+    color: orangered;
+    display: flex;
+    justify-content: flex-end;
+}
+h2{
+    background-color: blueviolet;
+   color: rgb(124, 235, 114);
+   
+}
+body{
+  background-image: url(./ek\ \(1\).jpg)
+}
+p{
+    background-color: white;
+}
+p1{
+     background-color: white;
+}
+p2{
+     background-color: white;
+}
+ul{
+    color: aliceblue;
+    background-color: black;
+}
